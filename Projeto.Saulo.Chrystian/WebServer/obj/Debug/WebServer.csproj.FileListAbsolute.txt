@@ -1,0 +1,20 @@
+C:\Users\Aluno\Desktop\Projeto.Saulo.Chrystian\WebServer\bin\WebServer.dll
+C:\Users\Aluno\Desktop\Projeto.Saulo.Chrystian\WebServer\bin\WebServer.pdb
+C:\Users\Aluno\Desktop\Projeto.Saulo.Chrystian\WebServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Projeto.Saulo.Chrystian\WebServer\obj\Debug\WebServer.dll
+C:\Users\Aluno\Desktop\Projeto.Saulo.Chrystian\WebServer\obj\Debug\WebServer.pdb
+C:\Documents and Settings\Chrystian Mayk\Desktop\Projeto.Saulo.Chrystian\WebServer\bin\WebServer.dll
+C:\Documents and Settings\Chrystian Mayk\Desktop\Projeto.Saulo.Chrystian\WebServer\bin\WebServer.pdb
+C:\Documents and Settings\Chrystian Mayk\Desktop\Projeto.Saulo.Chrystian\WebServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chrystian Mayk\Desktop\Projeto.Saulo.Chrystian\WebServer\obj\Debug\WebServer.dll
+C:\Documents and Settings\Chrystian Mayk\Desktop\Projeto.Saulo.Chrystian\WebServer\obj\Debug\WebServer.pdb
+F:\UNES\4º Período (2012)\R. Maróquio (LP III)\Projeto.Saulo.Chrystian\WebServer\bin\WebServer.dll
+F:\UNES\4º Período (2012)\R. Maróquio (LP III)\Projeto.Saulo.Chrystian\WebServer\bin\WebServer.pdb
+F:\UNES\4º Período (2012)\R. Maróquio (LP III)\Projeto.Saulo.Chrystian\WebServer\obj\Debug\ResolveAssemblyReference.cache
+F:\UNES\4º Período (2012)\R. Maróquio (LP III)\Projeto.Saulo.Chrystian\WebServer\obj\Debug\WebServer.dll
+F:\UNES\4º Período (2012)\R. Maróquio (LP III)\Projeto.Saulo.Chrystian\WebServer\obj\Debug\WebServer.pdb
+E:\UNES\4º Período (2012)\R. Maróquio (LP III)\Projeto.Saulo.Chrystian\WebServer\bin\WebServer.dll
+E:\UNES\4º Período (2012)\R. Maróquio (LP III)\Projeto.Saulo.Chrystian\WebServer\bin\WebServer.pdb
+E:\UNES\4º Período (2012)\R. Maróquio (LP III)\Projeto.Saulo.Chrystian\WebServer\obj\Debug\ResolveAssemblyReference.cache
+E:\UNES\4º Período (2012)\R. Maróquio (LP III)\Projeto.Saulo.Chrystian\WebServer\obj\Debug\WebServer.dll
+E:\UNES\4º Período (2012)\R. Maróquio (LP III)\Projeto.Saulo.Chrystian\WebServer\obj\Debug\WebServer.pdb

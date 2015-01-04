@@ -1,0 +1,48 @@
+C:\Users\marco\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\bin\Debug\Vendas.mdf
+C:\Users\marco\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\bin\Debug\Vendas_log.ldf
+C:\Users\marco\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\bin\Debug\Marcos.Trabalho.exe.config
+C:\Users\marco\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\bin\Debug\Marcos.Trabalho.exe
+C:\Users\marco\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\bin\Debug\Marcos.Trabalho.pdb
+C:\Users\marco\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\marco\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\Marcos.Trabalho.FormNovoItem.resources
+C:\Users\marco\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\Marcos.Trabalho.FormPrincipal.resources
+C:\Users\marco\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\Marcos.Trabalho.Properties.Resources.resources
+C:\Users\marco\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\marco\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\marco\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\Marcos.Trabalho.exe
+C:\Users\marco\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\Marcos.Trabalho.pdb
+C:\Users\marco\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\Marcos.Trabalho.FormProdutos.resources
+C:\Users\marco\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\Marcos.Trabalho.FormCadastroProduto.resources
+C:\Documents and Settings\Chrystian Mayk\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\bin\Debug\Marcos.Trabalho.exe.config
+C:\Documents and Settings\Chrystian Mayk\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\Marcos.Trabalho.exe
+C:\Documents and Settings\Chrystian Mayk\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\Marcos.Trabalho.pdb
+C:\Documents and Settings\Chrystian Mayk\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\bin\Debug\Vendas.mdf
+C:\Documents and Settings\Chrystian Mayk\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\bin\Debug\Vendas_log.ldf
+C:\Documents and Settings\Chrystian Mayk\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\bin\Debug\Marcos.Trabalho.exe
+C:\Documents and Settings\Chrystian Mayk\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\bin\Debug\Marcos.Trabalho.pdb
+C:\Documents and Settings\Chrystian Mayk\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chrystian Mayk\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\Marcos.Trabalho.FormCadastroProduto.resources
+C:\Documents and Settings\Chrystian Mayk\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\Marcos.Trabalho.FormNovoItem.resources
+C:\Documents and Settings\Chrystian Mayk\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\Marcos.Trabalho.FormPrincipal.resources
+C:\Documents and Settings\Chrystian Mayk\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\Marcos.Trabalho.FormProdutos.resources
+C:\Documents and Settings\Chrystian Mayk\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\Marcos.Trabalho.Properties.Resources.resources
+C:\Documents and Settings\Chrystian Mayk\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Chrystian Mayk\Desktop\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Deir vieira\Desktop\TrabalhoFinalLPIII\TrabalhoFinalLPIII\Marcos.Trabalho\bin\Debug\Marcos.Trabalho.exe.config
+C:\Users\Deir vieira\Desktop\TrabalhoFinalLPIII\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\Marcos.Trabalho.exe
+C:\Users\Deir vieira\Desktop\TrabalhoFinalLPIII\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\Marcos.Trabalho.pdb
+C:\Users\Deir vieira\Desktop\TrabalhoFinalLPIII\TrabalhoFinalLPIII\Marcos.Trabalho\bin\Debug\Vendas.mdf
+C:\Users\Deir vieira\Desktop\TrabalhoFinalLPIII\TrabalhoFinalLPIII\Marcos.Trabalho\bin\Debug\Vendas_log.ldf
+C:\Users\Deir vieira\Desktop\TrabalhoFinalLPIII\TrabalhoFinalLPIII\Marcos.Trabalho\bin\Debug\Marcos.Trabalho.exe
+C:\Users\Deir vieira\Desktop\TrabalhoFinalLPIII\TrabalhoFinalLPIII\Marcos.Trabalho\bin\Debug\Marcos.Trabalho.pdb
+C:\Users\Deir vieira\Desktop\TrabalhoFinalLPIII\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Deir vieira\Desktop\TrabalhoFinalLPIII\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\Marcos.Trabalho.FormCadastroProduto.resources
+C:\Users\Deir vieira\Desktop\TrabalhoFinalLPIII\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\Marcos.Trabalho.FormNovoItem.resources
+C:\Users\Deir vieira\Desktop\TrabalhoFinalLPIII\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\Marcos.Trabalho.FormPrincipal.resources
+C:\Users\Deir vieira\Desktop\TrabalhoFinalLPIII\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\Marcos.Trabalho.FormProdutos.resources
+C:\Users\Deir vieira\Desktop\TrabalhoFinalLPIII\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\Marcos.Trabalho.Properties.Resources.resources
+C:\Users\Deir vieira\Desktop\TrabalhoFinalLPIII\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Deir vieira\Desktop\TrabalhoFinalLPIII\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\4º Período (2012)\R. Maróquio (LP III)\Trabalhos1\TrabalhoFinalLPIII\TrabalhoFinalLPIII\TrabalhoFinalLPIII\Marcos.Trabalho\bin\Debug\Marcos.Trabalho.exe.config
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\4º Período (2012)\R. Maróquio (LP III)\Trabalhos1\TrabalhoFinalLPIII\TrabalhoFinalLPIII\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\Marcos.Trabalho.exe
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\4º Período (2012)\R. Maróquio (LP III)\Trabalhos1\TrabalhoFinalLPIII\TrabalhoFinalLPIII\TrabalhoFinalLPIII\Marcos.Trabalho\obj\x86\Debug\Marcos.Trabalho.pdb
